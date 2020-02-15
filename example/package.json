@@ -1,0 +1,20 @@
+{
+  "name": "react-profile-image-box-example",
+  "homepage": "https://bitbucket.org/pritomkucse/react-profile-image-box",
+  "version": "1.0.2",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "prop-types": "^15.6.2",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-scripts": "^1.1.4",
+    "react-profile-image-box": "file:.."
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
