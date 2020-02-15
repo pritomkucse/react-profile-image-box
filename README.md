@@ -45,4 +45,4 @@ export default class App extends Component {
 
 ## License
 
-MIT © [pritomkucse](https://bitbucket.org/pritomkucse/)
+MIT © [pritomkucse](https://github.com/pritomkucse/)
