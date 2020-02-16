@@ -4,6 +4,8 @@
 
 [![NPM](https://img.shields.io/npm/v/react-profile-image-box.svg)](https://www.npmjs.com/package/react-profile-image-box) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
+![Image Box](https://user-images.githubusercontent.com/25843631/74607244-69cbc300-5101-11ea-92d5-eadcd5894b63.JPG)
+
 ## Install
 
 ```bash
